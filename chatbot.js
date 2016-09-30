@@ -5,7 +5,8 @@ document.getElementById("chat-area").innerHTML += giveresponse +  " " + "<br>";
 }
 
 var responses = {
-  "How are you?" : "Very very good. And you?",
-  "What's your name?" : "Me llamo Felipe",
-  "How old are you?" : "I am a very young adult."
+  "How are you?" : "Very good. How about you?",
+  "What's your name?" : "Me name is Bryan",
+  "How old are you?" : "I am a 77 years old.",
+  "What team do you support?" : "REAL MADRID!!"
 }
