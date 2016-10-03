@@ -1,6 +1,9 @@
 .header {
     background-color: black;
 }
+body {
+  background-image: url("http://logok.org/wp-content/uploads/2014/03/Nike-logo.png");
+}
 
 h4 {
     padding: 0px;
